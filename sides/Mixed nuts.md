@@ -10,5 +10,5 @@
     flaxseed 
     Add some honey
 
-#Instructions
+## Instructions
  Serve all the ingredients in a bowl and enjoy your diet.
